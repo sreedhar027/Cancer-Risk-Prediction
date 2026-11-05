@@ -1,0 +1,25 @@
+# Python environment
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Secrets and environment variables
+.env
+.env.*
+
+# Editor/system files
+.vscode/
+.DS_Store
+Thumbs.db
+# Dataset - not verified for public sharing
+cancer-risk-factors.csv
+
+# Anaconda project database
+anaconda_projects/
+
+# Python environment
+.venv/
